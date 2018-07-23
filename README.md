@@ -1,2 +1,2 @@
 # Resume
-Details of work ex and others
+Clone the file and open resumeonDWedit5 file in the browser.
